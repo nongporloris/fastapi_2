@@ -1,0 +1,7 @@
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose[cryptography]
+pymysql
+mysql-connector-python
